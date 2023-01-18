@@ -20,4 +20,8 @@ docker-compose up -d
 * Mongo
 * NestJS
 * Docker
-* 
+
+5. Reconstruir la base de datos de la semilla (solo en desarrollo)
+```
+http://localhost:3000/api/v2/seed
+```
